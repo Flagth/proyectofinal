@@ -1,0 +1,4 @@
+-Presentacion (introduccion quien soy, por que elegi y que resuelvo - descripcion gnral lenguaje, framworks, herramientas, metodologia, fases del proyecto planificacion, desarrollo, pruebas - demostracion prototipo y sus funcionalidades clave - Resultados y conclusiones rendimiento, graficos, tablas. hallazgos y futuras mejoras - preguntas y cierre. 
+-taller de oratoria
+-Tutorias
+-hosting funcional
